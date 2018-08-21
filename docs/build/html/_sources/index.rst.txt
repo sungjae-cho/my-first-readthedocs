@@ -1,5 +1,5 @@
-Simple Documentation Tutorial: Doctut$
-==========================================$
+Simple Documentation Tutorial: Doctut
+==========================================
 
 .. toctree::
    :maxdepth: 2
