@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["index"],envversion:53,filenames:["index.rst"],objects:{},objnames:{},objtypes:{},terms:{doctut:0,document:0,index:0,modul:0,page:0,search:0,simpl:0,tutori:0},titles:["Indices and tables"],titleterms:{document:[],indic:0,readthedoc:[],tabl:0,welcom:[]}})
