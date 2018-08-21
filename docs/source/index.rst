@@ -1,4 +1,4 @@
-Simple Documentation Tutorial: Doctut
+Video Intelligence Platform Documentation
 ==========================================
 
 .. toctree::
