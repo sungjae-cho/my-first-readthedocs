@@ -10,16 +10,16 @@
 7. Push the updated repository to GitHub.
 8. Publish the documentation website in the [readthedocs.org](https://readthedocs.org/) page.
 
-Make a repository in your GitHub account. In my case, the repository is [https://github.com/sungjae-cho/my-readthedocs](https://github.com/sungjae-cho/my-readthedocs).
+Make a repository in your GitHub account. In my case, the repository is [https://github.com/sungjae-cho/my-first-readthedocs](https://github.com/sungjae-cho/my-first-readthedocs).
 
 Then, clone the repository in your working directory.
 ```bash
-$ git clone https://github.com/sungjae-cho/my-readthedocs
+$ git clone https://github.com/sungjae-cho/my-first-readthedocs
 ```
 
-Then, move to the `my-readthedocs` directory.
+Then, move to the `my-first-readthedocs` directory.
 ```bash
-$ cd my-readthedocs
+$ cd my-first-readthedocs
 ```
 
 Make a directory named `docs` and change the directory the working directory.
@@ -63,6 +63,6 @@ $ git commit -a -m "Initial commit."
 $ git push origin master
 ```
 
-Then, you can find the update repository in your GitHub page. In my case, the respository is [https://github.com/sungjae-cho/my-readthedocs](https://github.com/sungjae-cho/my-readthedocs).
+Then, you can find the update repository in your GitHub page. In my case, the respository is [https://github.com/sungjae-cho/my-first-readthedocs](https://github.com/sungjae-cho/my-first-readthedocs).
 
 The next step is to publish the documentation website through [readthedocs.org](https://readthedocs.org/). Just follow [this vide](https://www.youtube.com/watch?v=4rAoOcxQKoYo). After getting throught all the instructions, you will get your own documentation page! This is [my first readthedocs documnetaiotn website](https://my-first-readthedocs.readthedocs.io)! 
